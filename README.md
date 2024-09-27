@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/amankpandey45" target="blank"><img src="https://img.shields.io/twitter/follow/amankpandey45?logo=twitter&style=for-the-badge" alt="amankpandey45" /></a> </p>
 
-- 🔭 I’m currently working on Java and Algorithms.
+- 🔭 I’m currently working on Algorithms.
 
 - 🌱 I’m currently learning Dsa 
 
