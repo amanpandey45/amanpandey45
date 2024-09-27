@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on Java and Algorithms.
 
-- 🌱 I’m currently learning Dsa And Java
+- 🌱 I’m currently learning Dsa 
 
 - 👨‍💻 All of my projects are available at [https://github.com/amanpandey45](https://github.com/amanpandey45)
 
-- 💬 Ask me about **HTML,SQL,DSA,JAVA**
+- 💬 Ask me about **HTML,SQL,DSA**
 
 - 📫 How to reach me **amankpandey45@gmail.com**
 
